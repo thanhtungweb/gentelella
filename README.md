@@ -1,4 +1,4 @@
-# gentelella
+# gentelella 2
 
 Gentelella Admin is a free to use Bootstrap admin template.
 This template uses the default Bootstrap 4 styles along with a variety of powerful jQuery plugins and tools to create a powerful framework for creating admin panels or back-end dashboards.
@@ -9,7 +9,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 
 
 ## Theme Demo
-![Gentelella Bootstrap Admin Template](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg 
+![Gentelella Bootstrap Admin Template](https://cdn.colorlib.com/wp/wp-content/uploads/sites/2/gentelella-admin-template-preview.jpg
 "Gentelella Theme Browser Preview")
 
 **[Template Demo](https://colorlib.com/polygon/gentelella/index.html)**
@@ -20,7 +20,7 @@ We would love to see how you use this awesome admin template. You can notify us 
 
 ## Installation via Package Manager
 
-Our goal is to make it installable on different Package Manager! Do you want to use it on your favorite Package Manager and you know how? Pull request all the way! 
+Our goal is to make it installable on different Package Manager! Do you want to use it on your favorite Package Manager and you know how? Pull request all the way!
 
 As of now, this is some installation available:
 
